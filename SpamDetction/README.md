@@ -17,10 +17,10 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Spam Detection][contributors-shield]][contributors-url]
-[![NLTK-Sklern][forks-shield]][forks-url]
-[![python-3.9][stars-shield]][stars-url]
-[![Projects][issues-shield]][issues-url]
+[![Spam Detection][Spam Detection]]
+[![NLTK-Sklern][NLTK-slearn]]
+[![python-3.9][python-3.9]]
+[![Projects][Projects]]
 
 
 
